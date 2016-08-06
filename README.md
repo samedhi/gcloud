@@ -11,10 +11,10 @@ http://stackoverflow.com/questions/38059977/cant-call-public-method-of-non-publi
 
 # Setup
 
-You will need `SERVICE_ACCOUNT_DOT_JSON_PATH` and `PROJECT_ID` environment varibles.
+You will need `SERVICE_ACCOUNT_PATH` and `PROJECT_ID` environment varibles.
 ```
 # gcloud-datastore-clojure
-export SERVICE_ACCOUNT_DOT_JSON_PATH=./<project-id>_service_account.json
+export SERVICE_ACCOUNT__PATH=./<project-id>_service_account.json
 export PROJECT_ID=<project-id>
 ```
 
