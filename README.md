@@ -18,7 +18,7 @@ export SERVICE_ACCOUNT__PATH=./<project-id>_service_account.json
 export PROJECT_ID=<project-id>
 ```
 
-Then just get the project, cs into it, and run it.
+Then just get the project, cd into it, and run it.
 ```
 $ git clone git@github.com:samedhi/gcloud.git
 $ cd gcloud
