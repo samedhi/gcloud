@@ -1,4 +1,4 @@
-# google-datastore-clojure-docker-image
+# Getting gcloud Datastore working in Clojure
 
 This is a quick little demo of getting [gcloud](http://googlecloudplatform.github.io/gcloud-java/0.2.6/index.html) working in Clojure. 
 
