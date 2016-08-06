@@ -1,4 +1,4 @@
-package gcloud_datastore_clojure;
+package gcloud;
 
 import com.google.cloud.AuthCredentials;
 import com.google.cloud.ServiceOptions;
