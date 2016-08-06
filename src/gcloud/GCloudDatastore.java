@@ -1,7 +1,6 @@
 package gcloud;
 
 import com.google.cloud.AuthCredentials;
-import com.google.cloud.ServiceOptions;
 import com.google.cloud.datastore.Datastore;
 import com.google.cloud.datastore.DatastoreOptions;
 import com.google.cloud.datastore.DatastoreOptions.Builder;
